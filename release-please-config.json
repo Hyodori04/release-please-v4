@@ -7,7 +7,6 @@
   "packages": {
     "/web/apps/service1": {
       "branch": "main",
-      "package-name": "service1",
       "component": "service1"
     }
   }
