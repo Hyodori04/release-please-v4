@@ -1,5 +1,52 @@
 # Changelog
 
+## [1.0.1](https://github.com/Hyodori04/release-please-v4/compare/service1-v1.0.0...service1@v1.0.1) (2024-07-10)
+
+
+### Bug Fixes
+
+* test1 ([971eac3](https://github.com/Hyodori04/release-please-v4/commit/971eac3150c153320e9d3a07737e5fba49e4bc82))
+* test1 ([c85d071](https://github.com/Hyodori04/release-please-v4/commit/c85d0711ad81d4ec8fd0e8721cb940d8a5ee1bad))
+* test1 ([48c6b32](https://github.com/Hyodori04/release-please-v4/commit/48c6b32e14de632b16495391dc6a1fb413c0ae0d))
+* test1 ([a5e0534](https://github.com/Hyodori04/release-please-v4/commit/a5e05348028b87294b8fbe6435dd55867db4a127))
+* test1 ([0f879aa](https://github.com/Hyodori04/release-please-v4/commit/0f879aa81801fcb39a46d0049ce4ffbb28557077))
+* test1 ([f654050](https://github.com/Hyodori04/release-please-v4/commit/f654050bcb3d64e8388a71a43e092eaecd13787d))
+* test1 ([c680276](https://github.com/Hyodori04/release-please-v4/commit/c6802766e4ce5d8f442d15cc5dce427aceaa117c))
+* test1 ([bbc7570](https://github.com/Hyodori04/release-please-v4/commit/bbc7570de39dad3a9f2c0f6d97659329c9bb5e1d))
+* test1 ([d59cab7](https://github.com/Hyodori04/release-please-v4/commit/d59cab7a9e75bc7c6f8dd0da6c11d0cb69dad93b))
+* test1 ([5f28dff](https://github.com/Hyodori04/release-please-v4/commit/5f28dff4ac9257193805ee3b6bdd807b253b15e6))
+* test1 ([5c67d47](https://github.com/Hyodori04/release-please-v4/commit/5c67d473efd4d12973c3d64150ab96f221cfec25))
+* test1 ([038a619](https://github.com/Hyodori04/release-please-v4/commit/038a619a7eeece56a9db3b4998893b10cf539ca2))
+* test1 ([e1ba095](https://github.com/Hyodori04/release-please-v4/commit/e1ba09551312c2f9e7aba13e707ab246119f9ed1))
+* test1 ([65413fa](https://github.com/Hyodori04/release-please-v4/commit/65413faeff0158d9700d057b74ad8ee81e4a1178))
+* test1 ([cc96572](https://github.com/Hyodori04/release-please-v4/commit/cc96572b026450c09f603a609e52f406a78f75c3))
+* test1 ([370344f](https://github.com/Hyodori04/release-please-v4/commit/370344f3bb1a2c3be3937ddad615e6e7accedc68))
+* test1 ([87cf037](https://github.com/Hyodori04/release-please-v4/commit/87cf0370132863162fd26fdd1297978273089cf0))
+* test1 ([6f62417](https://github.com/Hyodori04/release-please-v4/commit/6f62417e69978262b91860116f14be7ae7b51df6))
+* test1 ([8d3578f](https://github.com/Hyodori04/release-please-v4/commit/8d3578f497a9e0bdd8869c1c638933bda4710690))
+* test1 ([5a514c4](https://github.com/Hyodori04/release-please-v4/commit/5a514c48008394d6286d202886dfc43306272852))
+* test1 ([6bc627c](https://github.com/Hyodori04/release-please-v4/commit/6bc627c73df63bf45d352b5a1efd74e50fc78254))
+* test1 ([ff7c728](https://github.com/Hyodori04/release-please-v4/commit/ff7c728fc14692f43cdf20d1fcf0643b86e9d8db))
+* test1 ([c4f749f](https://github.com/Hyodori04/release-please-v4/commit/c4f749fea82b8bc6ea15bba802220831a5fbc743))
+* test1 ([8d4cab4](https://github.com/Hyodori04/release-please-v4/commit/8d4cab46fbab1f2dfdfd6162007655efc1b2d13f))
+* test1 ([9529048](https://github.com/Hyodori04/release-please-v4/commit/9529048a112b6d963d0f370487a481ef1db2fb9a))
+* test1 ([85a47d5](https://github.com/Hyodori04/release-please-v4/commit/85a47d57330a74b58f5b10a29ae844cf864086e8))
+* test1 ([03a06d7](https://github.com/Hyodori04/release-please-v4/commit/03a06d745eea74681fcfb7170b2eae55759fcfd3))
+* test1 ([c8ae0cd](https://github.com/Hyodori04/release-please-v4/commit/c8ae0cdfc92dc8f2b50615a53d566d7d38311407))
+* test1 ([a05f256](https://github.com/Hyodori04/release-please-v4/commit/a05f25607c97847a8a401602b48fdaf3b9a278a4))
+* test1 ([c6fd93d](https://github.com/Hyodori04/release-please-v4/commit/c6fd93d75f68e7cd8b854dcd693a768555971fa6))
+* test1 ([543b81b](https://github.com/Hyodori04/release-please-v4/commit/543b81b910ef313def862cbe81ee4d76bc742cb1))
+* test1 ([d593e4d](https://github.com/Hyodori04/release-please-v4/commit/d593e4da96b807b93129d23b4d8a4e1bb4235618))
+* test1 ([5c908cd](https://github.com/Hyodori04/release-please-v4/commit/5c908cd82f6b7316b68a3c97e17b19eaac6e6494))
+* test1 ([061fd48](https://github.com/Hyodori04/release-please-v4/commit/061fd4821748d198b45dd682cb88e782f12f8e95))
+* test1 ([810dbd7](https://github.com/Hyodori04/release-please-v4/commit/810dbd7b9e107e50ba9ec676fbf569923658fd5d))
+* test1 ([f4aa1bc](https://github.com/Hyodori04/release-please-v4/commit/f4aa1bc5ae1fd8139d3ea589a0099f7784a3a923))
+
+
+### Miscellaneous
+
+* **main:** release 1.0.0 ([207fd38](https://github.com/Hyodori04/release-please-v4/commit/207fd38690cf92959dc1580f77b728c02f383da1))
+
 ## 1.0.0 (2024-07-10)
 
 
