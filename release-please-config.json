@@ -6,6 +6,7 @@
   "changelog-sections": [{"type":"feat","section":"Features","hidden":false},{"type":"fix","section":"Bug Fixes","hidden":false},{"type":"chore","section":"Miscellaneous","hidden":false},{"type":"refactor","section":"Refactoring","hidden":false},{"type":"fix(deps)","section":"Dependency Update","hidden":false},{"type":"test","section":"Tests","hidden":false}],
   "packages": {
     "web/apps/service1": {
+      "package-name": "service1",
       "component": "service1"
     }
   }
