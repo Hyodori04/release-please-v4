@@ -7,6 +7,10 @@ on:
     paths:
       - "web/apps/service1/**"
 
+permissions:
+  contents: write
+  pull-requests: write
+
 jobs:
   release-please:
     runs-on: ubuntu-latest
