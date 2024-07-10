@@ -8,8 +8,6 @@
     "web/apps/service1": {
       "package-name": "service1",
       "component": "service1",
-      "target-branch" : "service1",
-      "branch" : "service1",
       "include-component-in-tag": true,
       "separate-pull-requests": true
     }
