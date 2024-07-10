@@ -19,11 +19,8 @@ jobs:
         id: release
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-          path: "web/apps/service1"
-          release-type: simple
           config-file: default
           manifest-file: default
-          include-component-in-tag: 'true'
       - name: deploy
         if: ${{ steps.release.outputs['web/apps/service--release_created'] }}
         run:
