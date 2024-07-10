@@ -1,3 +1,4 @@
 {
-  "service1": "1.0.0"
+  "service1": "1.0.0",
+  "web/apps/service1": "1.0.0"
 }
