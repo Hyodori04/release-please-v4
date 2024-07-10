@@ -1,0 +1,24 @@
+name: Service1-ReleasePlease
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - "web/apps/service1"
+
+jobs:
+  release-please:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: google-github-actions/release-please-action@v4
+        id: release
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          path: "web/apps/service1"
+          config-file: default
+      - name: deploy
+        if: ${{ steps.release.outputs['web/apps/service--release_created'] }}
+        run:
+          echo "deploy"
+
