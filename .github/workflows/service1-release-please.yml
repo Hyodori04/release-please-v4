@@ -19,6 +19,7 @@ jobs:
         id: release
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
+          path: 'web/apps/service1'
       - name: deploy
         if: ${{ steps.release.outputs['web/apps/service1--release_created'] }}
         run:
