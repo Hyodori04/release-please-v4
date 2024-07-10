@@ -1,5 +1,16 @@
 # Changelog
 
+## [1.1.0](https://github.com/Hyodori04/release-please-v4/compare/service1@v1.0.1...service1@v1.1.0) (2024-07-10)
+
+
+### Features
+
+* service1 ([42255c6](https://github.com/Hyodori04/release-please-v4/commit/42255c6c621627ce2acfbd13aec3c7f62037ea03))
+* service2 ([2812ec9](https://github.com/Hyodori04/release-please-v4/commit/2812ec9fad4f30fb8088ddf85e20b963dcd180ca))
+* test1 ([136d599](https://github.com/Hyodori04/release-please-v4/commit/136d59924672eb8ba31f87c60240b58e8f1d4a51))
+* test1 ([f5ef31f](https://github.com/Hyodori04/release-please-v4/commit/f5ef31f49ff7dd67e9f077ad4ba5a66484003bd1))
+* test1 ([a6fcbb5](https://github.com/Hyodori04/release-please-v4/commit/a6fcbb53e065e5ed4f864496dabf5008cd5aace3))
+
 ## [1.0.1](https://github.com/Hyodori04/release-please-v4/compare/service1-v1.0.0...service1@v1.0.1) (2024-07-10)
 
 
