@@ -21,8 +21,8 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           path: "web/apps/service1"
           release-type: simple
-          include-component-in-tag: true
           config-file: default
+          target-branch: 'service1'
       - name: deploy
         if: ${{ steps.release.outputs['web/apps/service--release_created'] }}
         run:
