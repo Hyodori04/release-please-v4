@@ -5,7 +5,7 @@ on:
     branches:
       - main
     paths:
-      - "web/apps/service1"
+      - "web/apps/service1/**"
 
 jobs:
   release-please:
