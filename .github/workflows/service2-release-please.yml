@@ -1,11 +1,11 @@
-name: Service1-ReleasePlease
+name: Service2-ReleasePlease
 
 on:
   push:
     branches:
       - main
     paths:
-      - "web/apps/service1/**"
+      - "web/apps/service2/**"
 
 permissions:
   contents: write
@@ -20,7 +20,7 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
       - name: deploy
-        if: ${{ steps.release.outputs['web/apps/service1--release_created'] }}
+        if: ${{ steps.release.outputs['web/apps/service2--release_created'] }}
         run:
           echo "deploy"
 
